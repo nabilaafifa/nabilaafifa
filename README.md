@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media.tenor.com/fv3YfwLjdZUAAAAd/klee-genshin-impact.gif"/>
+<img src="https://media.tenor.com/fv3YfwLjdZUAAAAd/klee-genshin-impact.gif" width="100"/>
 
 ```js
 hello world
