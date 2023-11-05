@@ -1,8 +1,8 @@
 ### Hi there 👋
-<img src="https://media.tenor.com/fv3YfwLjdZUAAAAd/klee-genshin-impact.gif" width="100"/>
+<img src="https://media.tenor.com/fv3YfwLjdZUAAAAd/klee-genshin-impact.gif" width="200"/>
 
 ```js
-hello world
+console.log("hello world");
 ```
 <!--
 **nabilaafifa/nabilaafifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
